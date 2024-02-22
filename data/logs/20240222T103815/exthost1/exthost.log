@@ -1,0 +1,22 @@
+[2024-02-22 10:38:20.766] [exthost] [info] Extension host with pid 229 started
+[2024-02-22 10:38:20.781] [exthost] [info] Lock '/config/data/User/workspaceStorage/3ca16106/vscode.lock': Lock acquired.
+[2024-02-22 10:38:20.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2024-02-22 10:38:20.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2024-02-22 10:38:20.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2024-02-22 10:38:20.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onCommand:markdown.showPreview'
+[2024-02-22 10:38:21.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2024-02-22 10:38:21.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2024-02-22 10:38:21.322] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2024-02-22 10:38:21.345] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2024-02-22 10:38:21.350] [exthost] [info] Eager extensions activated
+[2024-02-22 10:38:22.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2024-02-22 10:38:22.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2024-02-22 10:38:32.089] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2024-02-22 10:38:32.556] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2024-02-22 10:38:50.965] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2024-02-22 10:38:51.484] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2024-02-22 10:38:52.671] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2024-02-22 10:47:25.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2024-02-22 10:49:57.031] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2024-02-22 10:49:57.031] [exthost] [info] Lock '/config/data/User/workspaceStorage/3ca16106/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2024-02-22 10:49:57.074] [exthost] [info] Extension host with pid 229 exiting with code 0
